@@ -1,0 +1,17 @@
+aiohttp
+codecarbon
+fastapi
+folium
+httpx
+joblib
+matplotlib
+numpy
+obd
+pandas
+psutil
+pyserial
+scikit-learn
+scipy
+seaborn
+smbus2
+uvicorn
